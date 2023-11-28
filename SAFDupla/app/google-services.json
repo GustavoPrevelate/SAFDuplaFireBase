@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594213380471",
+    "project_id": "safduplafirebase",
+    "storage_bucket": "safduplafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594213380471:android:df2fa0b4f229c639ed0172",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.safdupla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglUVDjoNiP9kgUIZJXQglvu2a4ihkoZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
